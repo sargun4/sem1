@@ -1,0 +1,117 @@
+Students who entered between 00:00:04 and 00:19:04:
+Sahil Goyal, 1, 00:17:07
+Bhavya Jain, 5, 00:11:11
+Thanmayee Matha, 1, 00:00:05
+Khushdev Pandit, 5, 00:00:17
+Khushdev Pandit, 1, 00:00:45
+Khushdev Pandit, 3, 00:01:05
+Khushdev Pandit, 5, 00:01:31
+Khushdev Pandit, 3, 00:02:48
+Khushdev Pandit, 5, 00:03:27
+Khushdev Pandit, 5, 00:04:14
+Khushdev Pandit, 5, 00:04:57
+Khushdev Pandit, 1, 00:06:28
+Khushdev Pandit, 5, 00:07:15
+Khushdev Pandit, 1, 00:08:32
+Khushdev Pandit, 3, 00:10:21
+Khushdev Pandit, 3, 00:12:50
+Khushdev Pandit, 1, 00:13:12
+Khushdev Pandit, 5, 00:14:28
+Khushdev Pandit, 1, 00:15:28
+Khushdev Pandit, 3, 00:15:38
+Khushdev Pandit, 1, 00:16:23
+Khushdev Pandit, 1, 00:17:33
+Khushdev Pandit, 5, 00:18:03
+Khushdev Pandit, 3, 00:18:38
+Rohan Dhar, 1, 00:18:42
+Bharat Goyal, 1, 00:10:55
+Bharat Goyal, 5, 00:19:01
+Snehal, 5, 00:03:06
+Thakkar Divyakumar Rameshbhai, 3, 00:01:31
+Aryan Chaudhary, 1, 00:01:43
+Aryan Chaudhary, 1, 00:16:24
+Karan Baboota, 5, 00:02:07
+Smiti Singhal, 3, 00:11:20
+Shambhavi Sharma, 5, 00:02:37
+Shambhavi Sharma, 5, 00:10:59
+Rishabh Oberoi, 1, 00:03:07
+Rishabh Oberoi, 5, 00:13:53
+Kartik Gupta, 3, 00:07:03
+Sushil Kumar, 5, 00:16:54
+Gayam Shivakanth Reddy, 1, 00:15:43
+Manas, 5, 00:04:29
+Aditya Raj Singh, 1, 00:05:23
+Swaib Ilias Mazumder, 1, 00:04:33
+Vamshi Krishna Vannekala, 1, 00:04:43
+Vamshi Krishna Vannekala, 1, 00:18:56
+Anuj Yadav, 1, 00:13:22
+Anuj Yadav, 3, 00:18:01
+Shraman Jain, 1, 00:06:12
+Shraman Jain, 5, 00:12:46
+Shraman Jain, 5, 00:15:47
+Vibhor Agarwal, 1, 00:06:52
+Vibhor Agarwal, 5, 00:12:29
+Vibhor Agarwal, 5, 00:18:42
+Shashank Dargar, 1, 00:09:46
+Param Shah, 1, 00:11:37
+Swatantra kumar nigam, 5, 00:12:52
+Ujjwal Garg, 3, 00:13:17
+Ujjwal Garg, 5, 00:17:45
+Swati Jha, 1, 00:18:05
+Ayush Srivastava, 5, 00:13:53
+Yuvraj Singh, 5, 00:17:36
+
+Students who exited between 00:00:04 and 00:19:04:
+Sahil Goyal, 5, 00:16:10
+Bhavya Jain, 5, 00:00:04
+Bhavya Jain, 3, 00:12:51
+Thanmayee Matha, 3, 00:16:10
+Khushdev Pandit, 1, 00:00:20
+Khushdev Pandit, 1, 00:00:51
+Khushdev Pandit, 5, 00:01:17
+Khushdev Pandit, 1, 00:02:38
+Khushdev Pandit, 1, 00:03:06
+Khushdev Pandit, 5, 00:03:44
+Khushdev Pandit, 5, 00:04:24
+Khushdev Pandit, 1, 00:05:34
+Khushdev Pandit, 3, 00:06:33
+Khushdev Pandit, 1, 00:07:23
+Khushdev Pandit, 5, 00:08:33
+Khushdev Pandit, 5, 00:10:57
+Khushdev Pandit, 5, 00:13:08
+Khushdev Pandit, 3, 00:14:25
+Khushdev Pandit, 5, 00:15:15
+Khushdev Pandit, 3, 00:15:38
+Khushdev Pandit, 1, 00:15:45
+Khushdev Pandit, 5, 00:16:40
+Khushdev Pandit, 5, 00:17:41
+Khushdev Pandit, 5, 00:18:33
+Rohan Dhar, 1, 00:00:50
+Bharat Goyal, 1, 00:00:59
+Bharat Goyal, 5, 00:16:51
+Bharat Goyal, 1, 00:19:04
+Snehal, 1, 00:01:14
+Snehal, 1, 00:16:15
+Thakkar Divyakumar Rameshbhai, 1, 00:08:42
+Aryan Chaudhary, 1, 00:03:58
+Smiti Singhal, 1, 00:02:27
+Shambhavi Sharma, 3, 00:05:52
+Rishabh Oberoi, 5, 00:13:11
+Kartik Gupta, 3, 00:03:17
+Sushil Kumar, 3, 00:03:48
+Gayam Shivakanth Reddy, 5, 00:04:13
+Aditya Raj Singh, 1, 00:04:33
+Aditya Raj Singh, 5, 00:17:07
+Swaib Ilias Mazumder, 3, 00:04:35
+Vamshi Krishna Vannekala, 3, 00:05:42
+Anuj Yadav, 5, 00:05:02
+Anuj Yadav, 3, 00:17:20
+Shraman Jain, 5, 00:09:41
+Shraman Jain, 1, 00:14:35
+Vibhor Agarwal, 3, 00:08:21
+Vibhor Agarwal, 1, 00:14:46
+Surbhi Goyal, 1, 00:07:44
+Swatantra kumar nigam, 1, 00:19:0
+Ujjwal Garg, 3, 00:15:42
+Swati Jha, 1, 00:13:21
+Mohammed Kaif, 1, 00:16:42

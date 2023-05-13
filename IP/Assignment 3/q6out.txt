@@ -1,0 +1,34 @@
+Advantages of using OO:
+
+1.Encapsulation: Classes & objects allow for the encapsulation of data & methods which makes it easy to hide implementation details & protect data.
+2.Reusability: in OOPS, classes & objects can be reused in multiple parts of program,  making it easier to maintain & reducing the amount of code that needs to be written 
+
+Advantages of using Dictionaries:
+
+1.Simplicity: Programs that don't use classes & objects can be simpler & easier to understand 
+2.Performance: Programs that don't use OOPS can be faster & use less memory.
+
+Disadvantage of using OO:
+1.classes & objects can make the code more complex & harder to understand, especially for beginners.
+2. Creating & managing objects can require more memory & processing power, which can slow down program.
+
+
+Disadvantage of using dictionaries:
+1.Programs that don't use classes & objects are harder to reuse & maintain, as there is no way to encapsulate data & methods in logical grouping.
+2.Programs that don't hv classes & objects can have global data & functions that can be changed due to lack of encapsulation,
+  which can lead to security breaches & bugs in the prog.
+
+
+Performance comparison for grading operation:
+N: 1000
+Time by OO: 0.06291818618774414
+Time by Dictionary: 0.05150580406188965
+Dictionary is faster; fraction of time Dictionary took is: 0.8186155256955339
+
+Performance comparison for search operation:
+N: 1000
+Time by OO: 0.0480494499206543
+Time by Dictionary: 0.050762176513671875
+OO is faster; fraction of time OO took is: 0.9465600811602916
+ 
+ 
