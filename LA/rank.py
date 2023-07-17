@@ -1,4 +1,4 @@
-def checkMatrix(A):
+def checkMat(A):
 	"""Checks if the entries in the input matrix A are integers or not. (for the precondition of MatrixRank() function)"""
 	m=len(A)
 	n=len(A[0])
@@ -15,7 +15,7 @@ def swapColumns(A,col1,col2):
 	Preconditions: col1 and col2 are whole numbers and A is a matrix in the form of nested list."""
 	for i in range(len(A)):
 		A[i][col1],A[i][col2]=A[i][col2],A[i][col1]
-def Row_Transformation(A,x,row1,row2):
+def rowTransfmtion(A,x,row1,row2):
 	"""Performs row transformation: row2->row2+x*row1, in matrix A.
 	Preconditions: row1 and row2 are whole numbers and A is a matrix in the form of nested list. x can be any real number."""
 	for i in range(len(A[0])):
@@ -36,7 +36,7 @@ def transpose(A):
 def MatrixRank(A):
 	"""Returns the rank of the matrix A.
 	Preconditions: A is a matrix containing integers in the form of nested list."""
-	checkMatrix(A)
+	checkMat(A)
 	m=len(A)
 	n=len(A[0])
 	rank=n
@@ -52,7 +52,7 @@ def MatrixRank(A):
 			for i in range(m):
 				if i!=row:
 					x=A[i][row]/A[row][row]
-					Row_Transformation(A,-1*x,row,i)
+					rowTransfmtion(A,-1*x,row,i)
 		else:
 			cond=True		
 			for i in range(row+1,m):
